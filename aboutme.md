@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Tran Phan Nguyen Thi
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi. My name is Thi. You can call me Tea. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My hobies
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Well, my English name says it all. 
+I like making and drinking **TEA**. 
+Black teas, green teas, matcha, oonglong teas. All are my love. 
+My favorite tea blend of all times is *Earl Grey* by Twinings. 
