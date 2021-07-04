@@ -23,3 +23,6 @@ I am now a first year student of:
 >Graduate School of International Media, Communication, and Tourism Studies, 
 >Hokkaido Uiversity, 
 >Japan
+
+
+This is a [description](https://www.imc.hokudai.ac.jp/english/academics/studies_courses/tourism_creation.html) of my course.  
