@@ -20,9 +20,6 @@ My favorite tea blend of all times is *Earl Grey* by Twinings.
 
 I am now a first year student of:
 >Master's Course in Tourism Creation Studies, 
->
-Graduate School of International Media, Communication, and Tourism Studies, 
-
-Hokkaido Uiversity, 
-
-Japan
+>Graduate School of International Media, Communication, and Tourism Studies, 
+>Hokkaido Uiversity, 
+>Japan
