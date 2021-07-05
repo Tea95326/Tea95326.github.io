@@ -26,5 +26,5 @@ This is a picture of matcha green tea:
 
 ## Attached file
 
-[Just a random PDF] (/Sample.pdf)
+[Just a random PDF](/Sample.pdf)
 
