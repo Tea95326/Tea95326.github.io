@@ -2,9 +2,6 @@
 layout: post
 title: Image post
 subtitle: This is where I try posting an image on my page
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
