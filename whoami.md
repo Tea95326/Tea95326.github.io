@@ -22,4 +22,4 @@ I am now a first year student of:
 >Japan
 
 
-This is a [description](https://www.imc.hokudai.ac.jp/english/academics/studies_courses/tourism_creation.html) of my course.  
+This is a quick [description](https://www.imc.hokudai.ac.jp/english/academics/studies_courses/tourism_creation.html) of my course.  
