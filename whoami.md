@@ -6,7 +6,7 @@ subtitle: Tran Phan Nguyen Thi
 
 Hi. My name is Thi. You can call me Tea. 
 
-### My hobies
+### My hobbies
 
 Well, my English name says it all. 
 
