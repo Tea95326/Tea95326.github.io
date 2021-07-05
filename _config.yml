@@ -3,7 +3,7 @@ title: Tea's home
 author: Tran Phan Nguyen Thi
 
 navbar-links:
-  About Me: "aboutme"
+  Who am I: "whoami"
   My school: "https://www.imc.hokudai.ac.jp/english/"
 
 avatar: "/assets/img/teacup.jpg"
