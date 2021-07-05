@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Image post
-subtitle: This is where I try posting an image on my page
+title: Trial post
+subtitle: This is where I try posting things on my page
 comments: true
 ---
 
 
-**I like matcha**
+**I use this post as a place to test how it works when I upload images, files and other things.**
 
-## Testing
+## Table
 
 I tried to create a table.
 
@@ -19,7 +19,12 @@ I tried to create a table.
 | 3 | Oolong tea | Jin Xuan, Tie Guan Yin |
 | 4 | Puer | ... |
 
-
+## Picture
 This is a picture of matcha green tea:
 
 ![Crepe](https://dp9bxf2pat5uz.cloudfront.net/wp-content/uploads/matcha.jpg)
+
+## Attached file
+
+[Just a random PDF] (/Sample.pdf)
+
